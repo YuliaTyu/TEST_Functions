@@ -76,3 +76,4 @@ double Stepen(int a, int n, double N)
 	}
 	return N;
 }
+
