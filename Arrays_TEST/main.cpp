@@ -68,6 +68,7 @@ void main()
 	cout << "Минимальное значение в массиве: " << Min(arr, n) << endl;
 	cout << "Максимальное значение в массиве: " << Max(arr, n) << endl;
 
+
 	cout << delimiter << endl;
 
 	const int SIZE = 8;
